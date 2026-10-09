@@ -1,8 +1,6 @@
 
 
 import streamlit as st
-import plotly.express as px
-import numpy as np 
 import datetime
 from datetime import date
 from dateutil.relativedelta import relativedelta
